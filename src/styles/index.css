@@ -10,3 +10,24 @@
     import 'relative/path/to/stylesheet.scss';
 
 */
+
+
+.row{
+    height: 150px;
+    text-align: center;
+    font-size: 50px;
+
+   
+    
+}
+
+.col{
+    border-radius: 10%;
+    border: 3px solid rgb(23, 25, 25);
+    background-color: rgba(48, 39, 39, 0.537);
+    height: 120px;
+   margin-top: 15px;
+   
+
+
+}
